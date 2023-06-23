@@ -10,4 +10,4 @@ https://nbasalary.sportsdada.net/
 This link is to the base web site where you can see our summary and data
 
 https://christopher-harden.shinyapps.io/NbaSalary/
-This link is to our shiny app we built where you can test different statistical scenarios
+This link is to our shiny app we built where you can test different statistical scenarios 
